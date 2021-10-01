@@ -1,0 +1,465 @@
+/*SECTION OFFERINGA*/
+
+.offering {
+  background: linear-gradient(
+      270deg,
+      rgba(27, 79, 157, 0.4) 0%,
+      rgba(28, 28, 27, 0.2) 52.08%,
+      rgba(28, 28, 27, 0.4) 100%
+    ),
+    #1b4f9d;
+  width: 1910px;
+  height: 812px;
+  left: -9px;
+  top: -109px;
+  position: relative;
+}
+.titulooff {
+  font-family: "Poppins", "Sans Serif";
+  font-style: normal;
+  font-weight: 200;
+  font-size: 40px;
+  line-height: 300px;
+
+  color: #ffffff;
+
+  width: 177px;
+  height: 120px;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+.titulodis {
+  font-family: "Poppins" "Sans Serif";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 45px;
+  line-height: 150px;
+
+  color: #ffffff;
+
+  left: 1.71%;
+  right: 1.71%;
+  top: 11.36%;
+  bottom: 11.36%;
+  margin-left: 50px;
+}
+.titulouxui {
+  font-family: "Poppins" "Sans Serif";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 45px;
+  line-height: 95px;
+
+  text-align: right;
+
+  color: #ffffff;
+
+  width: 613px;
+  height: 68px;
+  left: 900px;
+  top: 383px;
+  margin-left: 1200px;
+  margin-top: 200px;
+}
+.parrafouxui {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+
+  text-align: right;
+
+  color: #ffffff;
+
+  width: 765px;
+  height: 190px;
+  left: 574px;
+  top: 477px;
+  margin-left: 1050px;
+}
+
+/*SECCION UX PRODUCT*/
+
+.uxproduct {
+  width: 1900px;
+  height: 812px;
+  left: -9px;
+  top: -109px;
+  position: relative;
+}
+.titulouxpro {
+  width: 404px;
+  height: 120px;
+  left: 145px;
+  top: 842px;
+
+  font-family: "Poppins" "Sans Serif";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 40px;
+  line-height: 60px;
+
+  color: #1b4f9d;
+  margin-top: 150px;
+}
+.parrafouxpro {
+  width: 402px;
+  height: 349px;
+  left: 145px;
+  top: 933px;
+
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 168%;
+
+  letter-spacing: 0.015em;
+
+  color: #000000;
+}
+.asideimgpro {
+  margin-top: -125px;
+}
+.uximgpro {
+  width: 860px;
+  height: 900px;
+  margin-left: 745px;
+  margin-top: -518px;
+
+  background-blend-mode: multiply;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+/*SECCION UX CONTENT*/
+.uxcontent {
+  width: 1900px;
+  height: 812px;
+  position: relative;
+  margin-top: -175px;
+
+  background: linear-gradient(
+      106.78deg,
+      rgba(229, 47, 38, 0.3) 27.54%,
+      rgba(229, 47, 38, 0) 94.21%
+    ),
+    #1b4f9d;
+}
+.titulouxcont {
+  width: 374px;
+  height: 47px;
+  margin-left: 1340px;
+
+  font-family: "Poppins" "Sans Serif";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 40px;
+  line-height: 450px;
+  text-align: right;
+
+  color: #ffffff;
+}
+.parrafouxcont {
+  width: 410px;
+  height: 313px;
+  margin-left: 1300px;
+  margin-top: 300px;
+
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 36px;
+
+  text-align: right;
+  letter-spacing: 0.015em;
+
+  color: #ffffff;
+}
+.uximgcont {
+  width: 1041px;
+  height: 812px;
+  margin-top: -676px;
+
+  background-blend-mode: screen;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+/*SECCION UX DESIGN*/
+
+.uxdesign {
+  width: 1900px;
+  height: 812px;
+  position: relative;
+  margin-top: 90px;
+}
+.titulouxdes {
+  width: 374px;
+  height: 47px;
+  margin-left: 100px;
+
+  font-family: "Poppins" "Sans Serif";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 40px;
+  line-height: 60px;
+
+  color: #1b4f9d;
+}
+.parrafouxdes {
+  width: 410px;
+  height: 313px;
+  margin-left: 100px;
+  margin-top: 60px;
+
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 36px;
+
+  letter-spacing: 0.015em;
+
+  color: #000000;
+}
+.uximgdes {
+  width: 860px;
+  height: 812px;
+  margin-top: -526px;
+  margin-left: 1040px;
+
+  background-blend-mode: multiply;
+}
+
+/*SECCION CARROUSEL*/
+.carousel {
+  margin-bottom: 4rem;
+  background: #e4e4e4;
+  margin-top: -90px;
+  width: 1900px;
+}
+
+.carousel-caption {
+  bottom: 3rem;
+  z-index: 10;
+}
+
+.carousel-item {
+  height: 32rem;
+}
+.links1 {
+  width: 630px;
+  height: 301.93px;
+  margin-left: 300px;
+
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 36px;
+  line-height: 58px;
+
+  text-align: center;
+  letter-spacing: 0.015em;
+
+  color: #1b4f9d;
+}
+
+/*SECCION VIDEO*/
+
+.video {
+  width: 1900px;
+  height: 812px;
+  position: relative;
+  margin-top: -65px;
+
+  background: linear-gradient(
+      270deg,
+      rgba(27, 79, 157, 0.4) 0%,
+      rgba(28, 28, 27, 0.2) 52.08%,
+      rgba(28, 28, 27, 0.4) 100%
+    ),
+    #1b4f9d;
+}
+.video2 {
+  margin-left: 250px;
+  margin-top: 50px;
+}
+
+/*SECCION BEHANCE*/
+
+.behance {
+  width: 1900px;
+  height: 812px;
+  position: relative;
+  margin-top: 0px;
+  background: linear-gradient(
+      106.78deg,
+      rgba(229, 47, 38, 0.3) 27.54%,
+      rgba(229, 47, 38, 0) 94.21%
+    ),
+    #1b4f9d;
+}
+.titulobehance {
+  width: 521px;
+  height: 217px;
+  margin-left: 250px;
+  padding-top: 200px;
+
+  font-family: "Poppins" "Sans Serif";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 72px;
+
+  color: #ffffff;
+}
+.botonbe {
+  width: 278px;
+  height: 64px;
+  margin-left: 245px;
+  margin-top: 200px;
+
+  background: #ffffff;
+  border-radius: 30px;
+
+  font-family: "Poppins" "Sans Serif";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 36px;
+
+  color: #1b4f9d;
+}
+.asd {
+  margin-left: 25px;
+}
+.cidi {
+  width: 700px;
+  height: 1100px;
+  margin-left: 1100px;
+  margin-top: -450px;
+  position: relative;
+  z-index: 1;
+}
+/*SECCION FOOTER*/
+
+.footer {
+  background: #f6f9ff;
+  padding: 0 0 30px 0;
+  font-size: 14px;
+  z-index: 2;
+  position: relative;
+}
+.footer .footer-top {
+  background-size: contain;
+  border-top: 1px solid #e1ecff;
+  border-bottom: 1px solid #e1ecff;
+  padding: 60px 0 30px 0;
+}
+@media (max-width: 992px) {
+  .footer .footer-top {
+    background-position: center bottom;
+  }
+}
+.footer .footer-top .footer-info {
+  margin-bottom: 30px;
+}
+.footer .footer-top .footer-info .logo2 {
+  line-height: 0;
+  position: relative;
+}
+.footer .footer-top .footer-info .logo1 img {
+  max-height: 200px;
+  margin-left: 220px;
+}
+.footer .footer-top .footer-info .logo2 img {
+  max-height: 400px;
+  margin-top: -150px;
+}
+.footer .footer-top .footer-info p {
+  font-size: 14px;
+  line-height: 24px;
+  margin-bottom: 0;
+  font-family: "Nunito", sans-serif;
+}
+.footer .footer-top .social-links{
+    margin-left: 100px;
+  }
+  .footer .footer-top .seguinos{
+    padding-right: 1000px;
+  }
+
+.footer .footer-top .social-links a {
+  font-size: 20px;
+  display: inline-block;
+  color: rgba(1, 41, 112, 0.5);
+  line-height: 0;
+  margin-right: 10px;
+  transition: 0.3s;
+}
+.footer .footer-top .social-links a:hover {
+  color: #012970;
+}
+.footer .footer-top h4 {
+  font-family: "Poppins" "Sans Serif";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+
+  text-align: center;
+
+  color: #1b4f9d;
+}
+.footer .footer-top .footer-links {
+  margin-bottom: 30px;
+  margin-left: 200px;
+}
+.footer .footer-top .footer-links ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.footer .footer-top .footer-links ul i {
+  padding-right: 2px;
+  color: #d0d4fc;
+  font-size: 12px;
+  line-height: 0;
+  margin-left: 45px;
+}
+.footer .footer-top .footer-links ul li {
+  padding: 10px 0;
+  display: flex;
+  align-items: center;
+  font-family: 'Poppins' 'Sans Serif';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+
+  color: #000000;
+}
+.footer .footer-top .footer-links ul li:first-child {
+  padding-top: 0;
+}
+.footer .footer-top .footer-links ul a {
+  color: #013289;
+  transition: 0.3s;
+  display: inline-block;
+  line-height: 1;
+}
+.footer .footer-top .footer-links ul a:hover {
+  color: #4154f1;
+}
+.footer .footer-top .footer-contact p {
+  line-height: 26px;
+  font-family: 'Poppins' 'Sans Serif';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 25px;
+  margin-left: 100px;
+
+  color: #000000;
+}
