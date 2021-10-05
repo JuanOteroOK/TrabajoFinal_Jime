@@ -235,7 +235,6 @@
 /*SECCION CARROUSEL*/
 .carousel {
   margin-bottom: 4rem;
-  background: #e4e4e4;
   margin-top: -90px;
   width: 1900px;
 }
@@ -256,8 +255,8 @@
   font-family: "Open Sans";
   font-style: normal;
   font-weight: 300;
-  font-size: 36px;
-  line-height: 58px;
+  font-size: 30px;
+  line-height: 36px;
 
   text-align: center;
   letter-spacing: 0.015em;
@@ -341,6 +340,7 @@
   margin-top: -450px;
   position: relative;
   z-index: 1;
+  
 }
 /*SECCION FOOTER*/
 
@@ -356,6 +356,7 @@
   border-top: 1px solid #e1ecff;
   border-bottom: 1px solid #e1ecff;
   padding: 60px 0 30px 0;
+  width: 700px;
 }
 @media (max-width: 992px) {
   .footer .footer-top {
@@ -371,11 +372,12 @@
 }
 .footer .footer-top .footer-info .logo1 img {
   max-height: 200px;
-  margin-left: 220px;
+  margin-left: 400px;
 }
 .footer .footer-top .footer-info .logo2 img {
   max-height: 400px;
   margin-top: -150px;
+  margin-left: 175px;
 }
 .footer .footer-top .footer-info p {
   font-size: 14px;
@@ -384,10 +386,13 @@
   font-family: "Nunito", sans-serif;
 }
 .footer .footer-top .social-links{
-    margin-left: 100px;
+    margin-left: 950px;
+    margin-top: -40px;
   }
-  .footer .footer-top .seguinos{
-    padding-right: 1000px;
+
+  .seguinos{
+    margin-left: 550px;
+    padding-top: -550px;
   }
 
 .footer .footer-top .social-links a {
@@ -398,9 +403,7 @@
   margin-right: 10px;
   transition: 0.3s;
 }
-.footer .footer-top .social-links a:hover {
-  color: #012970;
-}
+
 .footer .footer-top h4 {
   font-family: "Poppins" "Sans Serif";
   font-style: normal;
@@ -426,7 +429,7 @@
   color: #d0d4fc;
   font-size: 12px;
   line-height: 0;
-  margin-left: 45px;
+  margin-left: 350px;
 }
 .footer .footer-top .footer-links ul li {
   padding: 10px 0;
@@ -453,13 +456,22 @@
   color: #4154f1;
 }
 .footer .footer-top .footer-contact p {
-  line-height: 26px;
   font-family: 'Poppins' 'Sans Serif';
   font-style: normal;
   font-weight: normal;
   font-size: 24px;
   line-height: 25px;
-  margin-left: 100px;
+  margin-left: 20px;
 
   color: #000000;
+}
+.footer-contact{
+  margin-left: 1100px;
+
+}
+.h4a{
+  margin-top: -480px;
+}
+.h4b{
+  margin-left: 350px;
 }
